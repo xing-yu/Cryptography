@@ -1,6 +1,5 @@
 # decrypt a LFSR cipher version 2
 # author: Xing Yu
-# CSCI55500
 # fall 2017
 
 import sys

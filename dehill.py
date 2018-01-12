@@ -1,6 +1,5 @@
 # hill cipher decoder
 # author: Xing Yu
-# CSCI55500
 # fall 2017
 
 import sys

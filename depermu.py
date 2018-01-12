@@ -1,6 +1,5 @@
 # permutation cipher decoder
 # author: Xing Yu
-# i101
 # fall 2017
 
 import sys

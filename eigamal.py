@@ -1,8 +1,6 @@
-# Assignment 03
-# CSCI55500
+# eigamal cypher
 # Xing Yu
 # Fall 2017
-# Question 02
 
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<< cipher >>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ciphers = [

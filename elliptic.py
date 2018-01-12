@@ -1,8 +1,6 @@
-# Assignment 03
-# CSCI55500
+# elliptic curve cipher
 # Xing Yu
 # Fall 2017
-# Question 04
 
 #<<<<<<<<<<<<<<<<<<<<<<<< extendEu >>>>>>>>>>>>>>>>>>>>>>>>>>>
 def extendEu(a, b):

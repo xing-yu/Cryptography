@@ -1,5 +1,4 @@
-# CSCI 55500
-# Assignment 05
+# knapsack cypher
 # Author: Xing Yu
 # Fall 2017
 

@@ -1,5 +1,4 @@
-# CSCI 55500
-# Assignment 02
+# RSA cipher
 # Author: Xing Yu
 # Fall 2017
 

@@ -1,5 +1,4 @@
-# CSCI 55500
-# Assignment 05
+# symmetrical permutation group cypher
 # Author: Xing Yu
 # Fall 2017
 
